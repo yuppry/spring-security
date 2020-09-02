@@ -1,6 +1,7 @@
 <h1>Oauth 2</h1>
 
 * [Javascript base64 http basic authorization encoder](http://tuxgraphics.org/toolbox/base64-javascript.html)
+* [Install HTTPie](https://httpie.org/)
 
 Get access token
 ```
